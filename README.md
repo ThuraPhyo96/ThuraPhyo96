@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Thura Phyo...
+- 👀 I’m interested in developing software, playing football, bicycling, travelling and listen to pop & rock music...
+- 🌱 I’m currently learning C# language in depth and asp.net core...
+
+
+<!---
+ThuraPhyo96/ThuraPhyo96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
